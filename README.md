@@ -10,8 +10,11 @@
 <img width="1565" alt="Screenshot 2025-01-17 at 01 33 42" src="https://github.com/user-attachments/assets/9e85c07b-e550-4a9c-b8e5-d3a4a14dd7ba" />
 5. Создать OAuth consent screen APIs & Services > OAuth consent screen
 
-6. Настроить OAuth consent screen, как описано в этой статье: https://developers.google.com/workspace/guides/configure-oauth-consent 
+6. Настроить OAuth consent screen, как описано в этой статье: https://developers.google.com/workspace/guides/configure-oauth-consent
+   В users добавить почту другого своего аккаунта Google, у которого разрешен доступ ко всем таблицам по поддержке Панацеи
 
-7. Скачать свои ключи Credentials > Project_name > Download OAuth client > Download JSON
+8. Скачать свои ключи Credentials > Project_name > Download OAuth client > Download JSON
 
-8. Загрузить файл с ключами на верхний уровень
+9. Загрузить файл с ключами на верхний уровень этой папки
+
+10. Запустить файл quick_start.py
