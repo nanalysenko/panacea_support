@@ -19,4 +19,4 @@
 
 10. Запустить файл quick_start.py
 11. Разрешить редактирование и перенести файл token.json в папку active
-12. Запустить update.py
+12. Запустить send_update.py
